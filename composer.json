@@ -1,10 +1,11 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "DannyNunez/300CMS",
+	"description": "A Flat File CMS based on Laravel.",
+	"keywords": ["laravel","flat file","angularjs"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.1.*"
+        "laravel/framework": "v4.1.25",
+        "league/flysystem" : "0.2.*"
 	},
 	"autoload": {
 		"classmap": [
@@ -19,11 +20,15 @@
 	"scripts": {
 		"post-install-cmd": [
 			"php artisan clear-compiled",
-			"php artisan optimize"
+			"php artisan optimize",
+            "echo [WARNING] Delete all .git dirs",
+            "rm -rf vendor/**/**/.git"
 		],
 		"post-update-cmd": [
 			"php artisan clear-compiled",
-			"php artisan optimize"
+			"php artisan optimize",
+            "echo [WARNING] Delete all .git dirs",
+            "rm -rf vendor/**/**/.git"
 		],
 		"post-create-project-cmd": [
 			"php artisan key:generate"
