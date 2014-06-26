@@ -1,0 +1,20 @@
+{
+    "name": "formativ/cms",
+    "description": "A flat file cms based on laravel.",
+    "authors": [
+        {
+            "name": "DannyNunez",
+            "email": "300development@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Formativ\\Cms": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

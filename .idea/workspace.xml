@@ -2,8 +2,220 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4567b9-9383-4127-8399-5682f6e3407f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/01-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/01-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/01-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/01-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/01-xxlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/02-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/02-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/02-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/03-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/03-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/03-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/03-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/04-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/04-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/04-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/04-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/04-xxlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/05-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/05-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/05-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/05-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/06-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/06-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/06-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/06-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/07-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/07-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/07-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/07-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/07-xxlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/08-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/08-medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/08-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/gallery/08-xlarge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/site/author-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/site/author-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/site/author-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/bigplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/blog-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/blog-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/blog-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/media/echo-hereweare.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/flashmediaelement.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/FontAwesome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/FontAwesome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/FontAwesome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/gallery-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/gallery-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/blog/gallery-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/justvector/justvector-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/justvector/justvector-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/justvector/justvector-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/lightbox-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/lightbox-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/lightbox-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/lightbox-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/bckg/loader_dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/bckg/loader_dark@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/bckg/loader_light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/bckg/loader_light@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/ico/logo-114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/ico/logo-144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/ico/logo-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/ico/logo-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/site/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/site/profile2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/silverlightmediaelement.xap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/single/single-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/single/single-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/images/portfolio/single/single-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/AppearanceController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/AuthenticationController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ThreeHundredCms/ServiceProvider/BackendServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workbench/formativ/cms/src/Formativ/Cms/Compiler/Blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workbench/formativ/cms/src/Formativ/Cms/Engine/Blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/CommentsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workbench/formativ/cms/src/Formativ/Cms/CompilerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workbench/formativ/cms/src/Formativ/Cms/EngineInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/FacebookController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/GoogleController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/InstagramController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/LinkedinController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/MediaController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PagesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PermissionsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PostsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/SettingsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ThreeHundredCms/Repositories/SettingsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/SettingsRepositoryInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/TwitterController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/UserSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ThreeHundredCms/Repositories/UsersRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/UsersRepositoryInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/WidgetsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/blog/admin-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/pages/admin-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/blog/blog-roll.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/images/controls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/detectmobilebrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/FontAwesome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/admin/layouts/partials/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/read/layouts/partials/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/blog/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/pages/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/gamma-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/gamma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/admin/layouts/partials/header.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/read/layouts/partials/header.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/read/layouts/partials/headernav.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/read/layouts/home.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/admin/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/admin/layouts/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/read/layouts/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/instagram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/jquery.fancybox-1.3.4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.fancybox-1.3.4.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.imagesloaded.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.masonry.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.uniform.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/jquerypp.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/js-url.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/fonts/justvector/justvector-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/admin/layouts/partials/left-sidebar.bade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/blog/list-view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/pages/list-view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/mediaelement-and-player.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/mediaelement/mediaelementplayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/themes/admin/layouts/partials/nav.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/google-code-prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/google-code-prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/admin/css/sb-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/selectivizr-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/js/send-mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/blog/single-view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/modules/pages/single-view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/css/uniform.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bower_components/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/themes/read/media/where are the sample media files.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/HomeController.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dannynunez.iml" afterPath="$PROJECT_DIR$/.idea/dannynunez.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dannynunez.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +250,61 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/views/themes/read/partials/footer.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/themes/read/partials/headernav.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/themes/read/layouts/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/blog/blog-roll.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/blog/blog-roll.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/themes/admin/partials/header.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/themes/admin/partials/nav.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/admin/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/blog/list-view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PostsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/MediaController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/GoogleController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/FacebookController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/CommentsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ApperanceController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/AppearanceController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/InstagramController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/LinkedinController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/SettingsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/TwitterController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/WidgetsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PermissionsController.php" />
+        <option value="$PROJECT_DIR$/app/threehundredcms/ServiceProvider/BackendServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/UsersRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/ThreeHundredCms/Repositories/UsersRepository.php" />
+        <option value="$PROJECT_DIR$/app/ThreeHundredCms/ServiceProvider/BackendServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/ThreeHundredCms/Repositories/SettingsRepository.php" />
+        <option value="$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/SettingsRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_064439_CreateUsersRolesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_060224_CreatePermissionsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_060408_CreateSettingsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_064232_CreateRolesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_064403_CreateRolesPermissionsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_060330_CreatePagesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_070605_CreatePostsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_070747_CreateCategoriesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_071013_CreatePostsCategoriesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_071207_CreatePagesCategoriesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_072429_CreateThemesTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_072526_CreateThemeRegionsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_071741_CreateBlogSettingsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_074503_CreatePageSettingsTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_071830_CreateFaceBookTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_071903_CreateGoogleTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_072234_CreateLinkedinTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_072315_CreateTwitterTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_06_26_072347_CreateInstagramTable.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_04_12_205601_CreateUserTable.php" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="xampp" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="mac local " />
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
     <option name="height" value="800" />
@@ -91,177 +353,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dannynunez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="/opt/local/etc/php54" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/assets/themes/admin" />
+      <recent name="$PROJECT_DIR$/app/views/themes/read" />
+      <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/ThreeHundredCms/Repositories" />
+      <recent name="$PROJECT_DIR$/app/ThreeHundredCms/Interfaces" />
+      <recent name="$PROJECT_DIR$/public/assets/themes/read" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/themes/read/layouts" />
+      <recent name="$PROJECT_DIR$/app/views/themes/admin/layouts" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public/index.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -272,6 +395,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -287,9 +418,33 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dd4567b9-9383-4127-8399-5682f6e3407f" name="Default" comment="" />
@@ -302,17 +457,17 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2547945" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22213247" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3203125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -321,6 +476,26 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2547945" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -339,18 +514,353 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/assets/plugins/bower_components/jquery/dist/jquery.js">
+    <entry file="file://$PROJECT_DIR$/app/views/themes/admin/layouts/partials/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="138657">
+        <state line="22" column="78" selection-start="1203" selection-end="1203" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/themes/admin/layouts/partials/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="60" selection-start="622" selection-end="622" vertical-scroll-proportion="0.24827586" vertical-offset="0" max-vertical-offset="2240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/themes/admin/layouts/partials/left-sidebar.bade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="20" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.7620321" vertical-offset="0" max-vertical-offset="5833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/blog/list-view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="409" column="16" selection-start="9345" selection-end="9345" vertical-scroll-proportion="0.35828876" vertical-offset="5867" max-vertical-offset="7318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AppearanceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.40106952" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18048128" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/FacebookController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18048128" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/GoogleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="201" selection-end="201" vertical-scroll-proportion="0.20053476" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/InstagramController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="214" selection-end="214" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/LinkedinController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="395" selection-end="395" vertical-scroll-proportion="0.40106952" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/MediaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="32" selection-start="425" selection-end="425" vertical-scroll-proportion="0.421123" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="42" selection-start="329" selection-end="329" vertical-scroll-proportion="0.32085562" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="5" selection-start="1513" selection-end="1513" vertical-scroll-proportion="1.6042781" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/SettingsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18048128" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/TwitterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="202" selection-end="202" vertical-scroll-proportion="0.20053476" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="0.48128343" vertical-offset="0" max-vertical-offset="2278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/WidgetsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="212" selection-end="212" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PermissionsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="206" selection-end="206" vertical-scroll-proportion="0.20053476" vertical-offset="0" max-vertical-offset="1933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ThreeHundredCms/ServiceProvider/BackendServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="0.36096257" vertical-offset="0" max-vertical-offset="1018">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/SettingsRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="180" selection-end="180" vertical-scroll-proportion="0.18048128" vertical-offset="0" max-vertical-offset="868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ThreeHundredCms/Interfaces/UsersRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="172" selection-end="172" vertical-scroll-proportion="0.14037433" vertical-offset="0" max-vertical-offset="898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ThreeHundredCms/Repositories/SettingsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="491" selection-end="491" vertical-scroll-proportion="0.48128343" vertical-offset="0" max-vertical-offset="1123">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ThreeHundredCms/Repositories/UsersRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.56149733" vertical-offset="0" max-vertical-offset="1198">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_064232_CreateRolesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="0.78743315" vertical-offset="26" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_064403_CreateRolesPermissionsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="6" selection-start="591" selection-end="591" vertical-scroll-proportion="0.421123" vertical-offset="0" max-vertical-offset="1243">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_070605_CreatePostsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="15" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.6818182" vertical-offset="0" max-vertical-offset="1558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_060330_CreatePagesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="6" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.72192514" vertical-offset="75" max-vertical-offset="1528">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_060224_CreatePermissionsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="146" selection-end="810" vertical-scroll-proportion="0.11764706" vertical-offset="17" max-vertical-offset="1348">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#7#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_070747_CreateCategoriesTable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="27" selection-start="298" selection-end="298" vertical-scroll-proportion="0.24336283" vertical-offset="0" max-vertical-offset="1278">
+        <state line="41" column="1" selection-start="845" selection-end="845" vertical-scroll-proportion="0.80213904" vertical-offset="0" max-vertical-offset="1348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_071207_CreatePagesCategoriesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="617" selection-end="617" vertical-scroll-proportion="0.48128343" vertical-offset="0" max-vertical-offset="1318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_071013_CreatePostsCategoriesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="150" selection-end="866" vertical-scroll-proportion="0.12032086" vertical-offset="0" max-vertical-offset="1318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_064439_CreateUsersRolesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="145" selection-end="832" vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="1295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_060408_CreateSettingsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="143" selection-end="1199" vertical-scroll-proportion="0.0828877" vertical-offset="43" max-vertical-offset="1453">
+          <folding>
+            <element signature="e#7#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_071741_CreateBlogSettingsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="147" selection-end="1059" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_071830_CreateFaceBookTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="680" selection-end="680" vertical-scroll-proportion="0.565508" vertical-offset="12" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_071903_CreateGoogleTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="141" selection-end="904" vertical-scroll-proportion="0.12032086" vertical-offset="0" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_072234_CreateLinkedinTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="143" selection-end="914" vertical-scroll-proportion="0.040106952" vertical-offset="60" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_072315_CreateTwitterTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="142" selection-end="909" vertical-scroll-proportion="0.022727273" vertical-offset="73" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_072347_CreateInstagramTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="-18.916666" vertical-offset="161" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_072526_CreateThemeRegionsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_074503_CreatePageSettingsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="816" selection-end="816" vertical-scroll-proportion="0.5815508" vertical-offset="0" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_26_072429_CreateThemesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="265" selection-end="271" vertical-scroll-proportion="0.2486631" vertical-offset="9" max-vertical-offset="1483">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_04_12_205601_CreateUserTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.72192514" vertical-offset="75" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="252" selection-end="252" vertical-scroll-proportion="0.30080214" vertical-offset="0" max-vertical-offset="988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3412">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="173" selection-end="173" vertical-scroll-proportion="0.20053476" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/remote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.2058823" vertical-offset="1650" max-vertical-offset="2833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.020053476" vertical-offset="15" max-vertical-offset="1198">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1822">
           <folding />
         </state>
       </provider>
